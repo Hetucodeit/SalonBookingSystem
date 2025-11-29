@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Browse Product";
+}
+
+<h1>Browse Products</h1>
+
+<!-- Breadcrumb & Filters -->
+<div class="d-flex align-items-center justify-content-between mb-3">
+    <!-- Breadcrumb -->
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-0">
+            <li class="breadcrumb-item">
+                <a href="/" class="text-decoration-none" style="color: #b0b0b0;">Home</a>
+            </li>
+            <li class="breadcrumb-item active" aria-current="page" style="color:#b0b0b0 ">Browse</li>
+        </ol>
+    </nav>
+
+    <!-- Filters -->
+    <div class="d-flex gap-1">
+        <!-- Sort Dropdown -->
+        <select class="form-select form-select-sm">
+            <option selected>Sort By</option>
+            <option value="latest">Latest</option>
+            <option value="oldest">Oldest</option>
+            <option value="most_popular">Most Popular</option>
+        </select>
+        <!-- Category Dropdown -->
+        <select class="form-select form-select-sm">
+            <option selected>Category</option>
+            <option value="1">Sheet Mask Collection</option>
+            <option value="2">Makeup</option>
+            <option value="3">Serum</option>
+            <option value="3">Beauty Service</option>
+            <option value="3">Spa & Body Care</option>
+        </select>
+
+        
+    </div>
+</div>
