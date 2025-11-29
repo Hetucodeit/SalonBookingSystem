@@ -4022,11 +4022,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\admin\\Downloads\\Customer Homepage\\Demo for Git\\SalonBookingSystem\\salon\\salon.csproj",
       "projectName": "salon",
       "projectPath": "C:\\Users\\admin\\Downloads\\Customer Homepage\\Demo for Git\\SalonBookingSystem\\salon\\salon.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\admin\\Downloads\\Customer Homepage\\Demo for Git\\SalonBookingSystem\\salon\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\salon.csproj",
+      "projectName": "salon",
+      "projectPath": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\salon.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\obj\\",
+>>>>>>> 02d7538543e94806ed50eff245549ee45f14184c
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

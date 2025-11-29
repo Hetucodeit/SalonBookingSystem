@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("salon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8efb35b88ff84ad24c6d157a7b936af5141d711")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9157a266c7bc62dcd80c4014ee7215c91cbd685e")]
+>>>>>>> 02d7538543e94806ed50eff245549ee45f14184c
 [assembly: System.Reflection.AssemblyProductAttribute("salon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("salon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

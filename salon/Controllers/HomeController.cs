@@ -15,7 +15,11 @@ namespace salon.Controllers
 
         public IActionResult Index()
         {
+<<<<<<< HEAD
             ViewBag.ShowHeaderItem = true;
+=======
+            ViewBag.ShowheaderItem = true;
+>>>>>>> 02d7538543e94806ed50eff245549ee45f14184c
             return View();
         }
 

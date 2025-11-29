@@ -1,8 +1,14 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+<<<<<<< HEAD
 wwwroot\images\contact-salon - Copy.webp
 wwwroot\images\contact-salon.webp
 wwwroot\images\logo.png
+=======
+wwwroot\images\contact-salon.webp
+wwwroot\images\logo.png
+wwwroot\images\Promotion.jpg
+>>>>>>> 02d7538543e94806ed50eff245549ee45f14184c
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

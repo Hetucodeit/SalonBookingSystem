@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "OzyM9nWMvbc=",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\Downloads\\Customer Homepage\\Demo for Git\\SalonBookingSystem\\salon\\salon.csproj",
+=======
+  "dgSpecHash": "OuueDE0imLg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\salon.csproj",
+>>>>>>> 02d7538543e94806ed50eff245549ee45f14184c
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
