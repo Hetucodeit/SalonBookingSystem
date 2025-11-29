@@ -20,3 +20,110 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+
+/*Staff Login Button*/
+.staff-login-btn {
+    background-color: #26A0DE !important;
+    color: #ffffff !important;
+    border-radius: 30px !important;
+    padding: 8px 20px !important;
+    border: none !important;
+    font-weight: 600;
+    transition: 0.3s ease;
+    text-decoration: none;
+}
+
+    /* Optional hover effect */
+    .staff-login-btn:hover {
+        background-color: #1B85BA !important;
+        color: #ffffff !important;
+        text-decoration: none;
+    }
+
+/*For Contact page */
+.contact-container {
+    width: 90%;
+    margin: auto;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.page-title {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 20px;
+    width: 70%;
+    margin: 0 auto 40px auto;
+}
+
+.contact-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.contact-info {
+    width: 40%;
+}
+
+.info-box {
+    background: #28a4de;
+    color: white;
+    padding: 18px 20px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+    .info-box i {
+        font-size: 22px;
+    }
+
+    .info-box.large {
+        display: block;
+        text-align: left;
+        padding: 25px;
+    }
+
+.contact-image img {
+    width: 520px;
+    height: 450px; /* Increased height */
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+/* This is Contact Page */
+
+/* Checkout css*/
+/* Customer Page Background Container */
+.customer-container {
+    background-color: #FFE9E9;
+    border-radius: 12px;
+    padding: 25px;
+}
+
+/* Continue Button */
+.continue-btn {
+    width: 180px;
+    background-color: #26A0DE;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 20px; /* Rounded corners = 20 */
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+    .continue-btn:hover {
+        opacity: 0.85;
+    }

@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Cart";
+}
+<h1>List of Things you added to Cart</h1>
+
+<div class="d-flex align-items-center justify-content-between mb-3">
+    <!-- Breadcrumb -->
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-0">
+            <!-- Home link -->
+            <li class="breadcrumb-item">
+                <a asp-controller="Home" asp-action="Index" class="text-decoration-none" style="color: #b0b0b0;">Home</a>
+            </li>
+
+            <!-- Browse Products link -->
+            <li class="breadcrumb-item">
+                <a asp-controller="Product" asp-action="BrowseProduct" class="text-decoration-none" style="color: #b0b0b0;">Browse</a>
+            </li>
+
+            <!-- Current page label -->
+            <li class="breadcrumb-item active" aria-current="page" style="color:#6c757d;">Cart</li>
+        </ol>
+    </nav>
+</div>
+
+<a asp-controller="Order" asp-action="Checkout" class="btn btn-success btn-lg">
+    Checkout
+</a>
+

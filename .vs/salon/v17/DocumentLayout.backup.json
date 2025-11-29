@@ -1,94 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\views\\promotions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\promotions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\controllers\\promotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\controllers\\promotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\views\\promotions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\promotions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\views\\staff\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\staff\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\views\\promotions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\promotions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\views\\promotions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\promotions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\migrations\\20251128162536_addpromotionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\migrations\\20251128162536_addpromotionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Customer Homepage\\Demo for Git\\SalonBookingSystem\\salon\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\controllers\\promotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\controllers\\promotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\views\\promotions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\promotions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\views\\promotions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\promotions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\views\\staff\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\staff\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\views\\promotions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\promotions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\views\\promotions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\promotions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\migrations\\20251128162536_addpromotionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\migrations\\20251128162536_addpromotionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\salon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\salon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\salon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\downloads\\demo\\salonbookingsystem\\salon\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|c:\\users\\admin\\documents\\comp703[webapp]\\groupassign\\salonwebapplication\\salon\\salon\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EF6AC5F-29A4-4FE2-A109-F1D9BE075133}|salon\\salon.csproj|solutionrelative:salon\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,71 +105,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "salon\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "salon\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T17:43:27.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Promotion.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Models\\Promotion.cs",
-              "RelativeDocumentMoniker": "salon\\Models\\Promotion.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Models\\Promotion.cs",
-              "RelativeToolTip": "salon\\Models\\Promotion.cs",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Customer Homepage\\Demo for Git\\SalonBookingSystem\\salon\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Customer Homepage\\Demo for Git\\SalonBookingSystem\\salon\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Customer Homepage\\Demo for Git\\SalonBookingSystem\\salon\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\Customer Homepage\\Demo for Git\\SalonBookingSystem\\salon\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T17:14:11.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Promotions\\Create.cshtml",
-              "RelativeDocumentMoniker": "salon\\Views\\Promotions\\Create.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Promotions\\Create.cshtml",
-              "RelativeToolTip": "salon\\Views\\Promotions\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T16:28:59.36Z",
+              "WhenOpened": "2025-11-29T01:46:49.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Promotions\\Index.cshtml",
-              "RelativeDocumentMoniker": "salon\\Views\\Promotions\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Promotions\\Index.cshtml",
-              "RelativeToolTip": "salon\\Views\\Promotions\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T16:14:06.865Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "salon\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "salon\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T01:44:27.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "salon\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "salon\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T17:43:27.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Models\\Promotion.cs",
+              "RelativeDocumentMoniker": "salon\\Models\\Promotion.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Models\\Promotion.cs",
+              "RelativeToolTip": "salon\\Models\\Promotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:14:11.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Promotions\\Create.cshtml",
+              "RelativeDocumentMoniker": "salon\\Views\\Promotions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Promotions\\Create.cshtml",
+              "RelativeToolTip": "salon\\Views\\Promotions\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T16:28:59.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Promotions\\Index.cshtml",
+              "RelativeDocumentMoniker": "salon\\Views\\Promotions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Promotions\\Index.cshtml",
+              "RelativeToolTip": "salon\\Views\\Promotions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T16:14:06.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Program.cs",
               "RelativeDocumentMoniker": "salon\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Program.cs",
               "RelativeToolTip": "salon\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwBwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Promotions\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Promotions\\Delete.cshtml",
               "RelativeDocumentMoniker": "salon\\Views\\Promotions\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Promotions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Promotions\\Delete.cshtml",
               "RelativeToolTip": "salon\\Views\\Promotions\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -182,36 +208,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "salon\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\wwwroot\\css\\site.css",
               "RelativeToolTip": "salon\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAiwGYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-28T16:27:56.077Z"
+              "WhenOpened": "2025-11-28T16:27:56.077Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PromotionsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Controllers\\PromotionsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Controllers\\PromotionsController.cs",
               "RelativeDocumentMoniker": "salon\\Controllers\\PromotionsController.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Controllers\\PromotionsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Controllers\\PromotionsController.cs",
               "RelativeToolTip": "salon\\Controllers\\PromotionsController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAuwG0AAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T16:12:40.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Staff\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Staff\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "salon\\Views\\Staff\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Staff\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Staff\\Dashboard.cshtml",
               "RelativeToolTip": "salon\\Views\\Staff\\Dashboard.cshtml",
               "ViewState": "AgIAAEwAAAAAAAAAAAAuwF4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -219,11 +246,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "20251128162536_AddPromotionsTable.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Migrations\\20251128162536_AddPromotionsTable.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Migrations\\20251128162536_AddPromotionsTable.cs",
               "RelativeDocumentMoniker": "salon\\Migrations\\20251128162536_AddPromotionsTable.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Migrations\\20251128162536_AddPromotionsTable.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Migrations\\20251128162536_AddPromotionsTable.cs",
               "RelativeToolTip": "salon\\Migrations\\20251128162536_AddPromotionsTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,11 +258,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Promotions\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Promotions\\Edit.cshtml",
               "RelativeDocumentMoniker": "salon\\Views\\Promotions\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Promotions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Promotions\\Edit.cshtml",
               "RelativeToolTip": "salon\\Views\\Promotions\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -243,23 +270,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "salon\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Controllers\\AccountController.cs",
               "RelativeToolTip": "salon\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAuwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T09:08:29.246Z"
+              "WhenOpened": "2025-11-28T09:08:29.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "salon\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "salon\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -267,11 +295,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "salon\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "salon\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,11 +307,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "salon\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "salon\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,11 +319,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "StaffController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Controllers\\StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Controllers\\StaffController.cs",
               "RelativeDocumentMoniker": "salon\\Controllers\\StaffController.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Controllers\\StaffController.cs",
               "RelativeToolTip": "salon\\Controllers\\StaffController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -303,11 +331,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "salon\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "salon\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -315,11 +343,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Models\\LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "salon\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Models\\LoginViewModel.cs",
               "RelativeToolTip": "salon\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -327,11 +355,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "salon.csproj",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\salon.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\salon.csproj",
               "RelativeDocumentMoniker": "salon\\salon.csproj",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\salon.csproj",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\salon.csproj",
               "RelativeToolTip": "salon\\salon.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -339,11 +367,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\appsettings.Development.json",
               "RelativeDocumentMoniker": "salon\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\appsettings.Development.json",
               "RelativeToolTip": "salon\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -351,11 +379,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\appsettings.json",
               "RelativeDocumentMoniker": "salon\\appsettings.json",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\appsettings.json",
               "RelativeToolTip": "salon\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -363,15 +391,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 6,
               "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Models\\Staff.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Models\\Staff.cs",
               "RelativeDocumentMoniker": "salon\\Models\\Staff.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\Models\\Staff.cs",
               "RelativeToolTip": "salon\\Models\\Staff.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T08:49:19.203Z"
+              "WhenOpened": "2025-11-28T08:49:19.203Z",
+              "EditorCaption": ""
             }
           ]
         }

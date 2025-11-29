@@ -4022,11 +4022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\salon.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\salon.csproj",
       "projectName": "salon",
-      "projectPath": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\salon.csproj",
+      "projectPath": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\salon.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\COMP703[WebApp]\\GroupAssign\\SalonWebApplication\\salon\\salon\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Downloads\\Demo\\SalonBookingSystem\\salon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4100,7 +4100,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
